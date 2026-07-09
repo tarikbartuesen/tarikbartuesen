@@ -1,45 +1,59 @@
 # Hi 👋 I'm Tarık Bartu Esen
 
-## 🎓 About Me
+### 💻 Software Engineering Student
+### 🔐 Aspiring Cybersecurity Engineer
 
-- 💻 Software Engineering Student
-- 🔐 Currently learning Cybersecurity
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering Student
+- 💼 IT Intern
+- 🛡️ Currently learning Cybersecurity
+- 📚 Studying the IBM Cybersecurity Professional Certificate
 - 🐍 Improving my Python skills
-- 🌍 My goal is to become a Cybersecurity Engineer
-- 📚 Currently studying the IBM Cybersecurity Professional Certificate
+- 🌍 Interested in Cybersecurity, Networking and Python
+- 🚀 Building my cybersecurity portfolio on GitHub
 
 ---
 
-## 🚀 Current Roadmap
+## 🎯 Current Goals
 
-- ✅ IBM Cybersecurity Professional Certificate
-- 🔄 Python
-- 🔄 Git & GitHub
-- 🔄 Linux
-- 🔄 Networking
-- 🔄 Cybersecurity Projects
+- ✅ Complete the IBM Cybersecurity Professional Certificate
+- 🔄 Improve my Python skills
+- 🔄 Learn Git & GitHub
+- 🔄 Build cybersecurity projects
+- 🔄 Improve my technical English
+- 🎯 Earn a cybersecurity internship
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## 🛠️ Currently Learning
 
 - Python
-- Git
-- GitHub
-- Linux
-- Networking
-- Cybersecurity
+- Git & GitHub
+- Linux Fundamentals
+- Networking Basics
+- Cybersecurity Fundamentals
 
 ---
 
-## 📈 2025 Goals
+## 📂 Featured Projects
 
-- Complete the IBM Cybersecurity Professional Certificate
-- Build cybersecurity projects
-- Improve my technical English
-- Create a strong GitHub portfolio
-- Earn a cybersecurity internship
+🚧 Coming Soon...
+
+- IBM Cybersecurity Notes
+- Password Strength Checker
+- Password Generator
+- Port Scanner
+- Log Analyzer
 
 ---
 
-> "Small progress every day leads to big results."
+## 📚 Certifications
+
+- IBM Cybersecurity Professional Certificate *(In Progress)*
+
+---
+
+> **"Small progress every day leads to big results." 🚀**
