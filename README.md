@@ -1,8 +1,6 @@
 # Hi 👋 I'm Tarık Bartu Esen
 
 ### 💻 Software Engineering Student
-### 🔐 Aspiring Cybersecurity Engineer
-
 ---
 
 ## 👨‍💻 About Me
@@ -38,22 +36,8 @@
 
 ---
 
-## 📂 Featured Projects
-
-🚧 Coming Soon...
-
-- IBM Cybersecurity Notes
-- Password Strength Checker
-- Password Generator
-- Port Scanner
-- Log Analyzer
-
----
-
 ## 📚 Certifications
 
 - IBM Cybersecurity Professional Certificate *(In Progress)*
 
 ---
-
-> **"Small progress every day leads to big results." 🚀**
