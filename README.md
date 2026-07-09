@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Tarık Bartu Esen
 
-<!--
-**tarikbartuesen/tarikbartuesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- 💻 Software Engineering Student
+- 🔐 Currently learning Cybersecurity
+- 🐍 Improving my Python skills
+- 🌍 My goal is to become a Cybersecurity Engineer
+- 📚 Currently studying the IBM Cybersecurity Professional Certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Roadmap
+
+- ✅ IBM Cybersecurity Professional Certificate
+- 🔄 Python
+- 🔄 Git & GitHub
+- 🔄 Linux
+- 🔄 Networking
+- 🔄 Cybersecurity Projects
+
+---
+
+## 🛠️ Technologies I'm Learning
+
+- Python
+- Git
+- GitHub
+- Linux
+- Networking
+- Cybersecurity
+
+---
+
+## 📈 2025 Goals
+
+- Complete the IBM Cybersecurity Professional Certificate
+- Build cybersecurity projects
+- Improve my technical English
+- Create a strong GitHub portfolio
+- Earn a cybersecurity internship
+
+---
+
+> "Small progress every day leads to big results."
